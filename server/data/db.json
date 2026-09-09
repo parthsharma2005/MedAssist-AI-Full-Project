@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "6b3de9bb-0881-4e0f-b229-91fee7614fe3",
+      "name": "PARTH SHARMA",
+      "email": "sparth1110@gmail.com",
+      "passwordHash": "$2a$12$iLu6SdeEnC3JT6kwI.cJiueJOxt8bQ5GlRiyWYOiGj9iuy3Ee5AiO",
+      "createdAt": "2026-08-31T10:52:50.849Z"
+    },
+    {
+      "id": "aa939791-5f26-4977-bee5-77ff3153dcd5",
+      "name": "PARTH SHARMA",
+      "email": "sparth7990@gmail.com",
+      "passwordHash": "$2a$12$OXFFk/edee/J8Mgr99i44OXEdqhVPH81iXZm5/5sIo7bqElkWe4mG",
+      "createdAt": "2026-08-31T11:11:03.307Z"
+    }
+  ],
+  "chats": [
+    {
+      "id": "29fc213b-7c49-44c6-b095-78f381887095",
+      "userId": "6b3de9bb-0881-4e0f-b229-91fee7614fe3",
+      "userMessage": "fever",
+      "assistantMessage": "I can help with general medical information, but I cannot diagnose you.\n\nFor a useful assessment, tell me:\n• your age\n• the main symptom\n• when it started\n• how severe it is\n• anything that makes it better/worse\n• relevant medical conditions or medicines\n\nIf symptoms are severe, rapidly worsening, or you are worried something is seriously wrong, seek in-person medical care.\n\n(Gemini is not configured. Add GEMINI_API_KEY to the server .env file for AI responses.)",
+      "createdAt": "2026-08-31T10:53:05.230Z"
+    },
+    {
+      "id": "d7880b9a-5de8-4d1c-ad74-87d6929475a9",
+      "userId": "6b3de9bb-0881-4e0f-b229-91fee7614fe3",
+      "userMessage": "fever",
+      "assistantMessage": "I can help with general medical information, but I cannot diagnose you.\n\nFor a useful assessment, tell me:\n• your age\n• the main symptom\n• when it started\n• how severe it is\n• anything that makes it better/worse\n• relevant medical conditions or medicines\n\nIf symptoms are severe, rapidly worsening, or you are worried something is seriously wrong, seek in-person medical care.\n\n(Gemini is not configured. Add GEMINI_API_KEY to the server .env file for AI responses.)",
+      "createdAt": "2026-08-31T10:59:15.645Z"
+    },
+    {
+      "id": "643b550a-bba2-4421-9c5a-1d4383ee89f4",
+      "userId": "6b3de9bb-0881-4e0f-b229-91fee7614fe3",
+      "userMessage": "hello",
+      "assistantMessage": "I can help with general medical information, but I cannot diagnose you.\n\nFor a useful assessment, tell me:\n• your age\n• the main symptom\n• when it started\n• how severe it is\n• anything that makes it better/worse\n• relevant medical conditions or medicines\n\nIf symptoms are severe, rapidly worsening, or you are worried something is seriously wrong, seek in-person medical care.\n\n(Gemini is not configured. Add GEMINI_API_KEY to the server .env file for AI responses.)",
+      "createdAt": "2026-08-31T11:00:06.676Z"
+    },
+    {
+      "id": "8a715786-e93d-42d4-b2d7-2fffda1c78f7",
+      "userId": "6b3de9bb-0881-4e0f-b229-91fee7614fe3",
+      "userMessage": "21 fever",
+      "assistantMessage": "I can help with general medical information, but I cannot diagnose you.\n\nFor a useful assessment, tell me:\n• your age\n• the main symptom\n• when it started\n• how severe it is\n• anything that makes it better/worse\n• relevant medical conditions or medicines\n\nIf symptoms are severe, rapidly worsening, or you are worried something is seriously wrong, seek in-person medical care.\n\n(Gemini is not configured. Add GEMINI_API_KEY to the server .env file for AI responses.)",
+      "createdAt": "2026-08-31T11:00:20.330Z"
+    },
+    {
+      "id": "7f375280-268c-40e5-ad64-a6884fab1e14",
+      "userId": "6b3de9bb-0881-4e0f-b229-91fee7614fe3",
+      "userMessage": "hello",
+      "assistantMessage": "I can help with general medical information, but I cannot diagnose you.\n\nFor a useful assessment, tell me:\n• your age\n• the main symptom\n• when it started\n• how severe it is\n• anything that makes it better/worse\n• relevant medical conditions or medicines\n\nIf symptoms are severe, rapidly worsening, or you are worried something is seriously wrong, seek in-person medical care.\n\n(Gemini is not configured. Add GEMINI_API_KEY to the server .env file for AI responses.)",
+      "createdAt": "2026-08-31T11:03:41.636Z"
+    }
+  ],
+  "reports": []
+}
